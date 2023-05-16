@@ -1,0 +1,18 @@
+id: IBB70C163
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:29:39.454520
+last_modified: 2023-01-04 11:29:39.454533
+source_metadata:
+  collections:
+  - Apang Tertön Series
+  - Works of Tibetan Masters
+bases:
+  C4DC:
+    title: A Prayer to Chöying Dorje
+    base_file: C4DC.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
